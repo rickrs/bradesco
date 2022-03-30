@@ -17,7 +17,7 @@
 
         <a href="#agenda" class="link">Agenda</a>
         <a href="#palestrantes" class="link">Palestrantes</a>
-        <a href="#inscrevase" class="link cadastrese">Inscreva-se</a>
+        <a href="#inscrevase" class="link cadastrese">Cadastre-se</a>
         <a href="#entrar" style="display: none;" class="link entrar">Entrar</a>
       </div>
 
@@ -66,18 +66,23 @@
           <h3>
             Agenda 01 <br>
             <b>
-              Real Time Marketing <br>
-              Salesforce
-            </b>    
+              Real Time Marketing
+             </b>    
           </h3>
 
           <p>
             Entregando assuntos no instante em que o cliente procurar por eles.​
             ​<br><br>
-            MKT Cloud e Interaction Studio são soluções da Salesforce para gerar respostas em tempo real, em formato omnichannel, de acordo com as interações dos clientes.​
-            ​<br><br>
-            Através destas aplicações, é possível entregar conteúdo significativo aos clientes de acordo com suas últimas interações, seja no mundo digital ou físico, de forma instantânea. Através de uma jornada fictícia, que ilustrará os pontos de contato e ações possíveis de serem realizadas, apresentaremos insights para uma experiência memorável e omnichannel apoiada por tecnologia.
-          </p>
+            MKT Cloud e Interaction Studio são soluções da Salesforce para gerar respostas real time de forma omnichannel e de acordo com as 
+interações dele.<br><br>
+Por meio dessas aplicações é possível entregar conteúdo significativo a ele, conforme suas últimas interações, seja no mundo digital ou 
+físico, de forma instantânea. Se o cliente, por exemplo, consumir conteúdo sobre financiamento imobiliário, todo o ecossistema de 
+atendimento a ele, se adequa ao tema de forma real time.
+<br><br>
+E todas essas interações, constam na tela do gerente de conta que está na agência, pelo Financial Service Cloud. Estas ferramentas serão 
+apresentadas de forma visual e interativa, através de uma jornada fictícia que ilustrará os pontos de contato e ações possíveis de serem 
+realizadas para um use case a ser definido, gerando assim insights para uma experiência memorável e omnichannel, apoiada por 
+tecnologia.</p>
           
           <div class="flex">
             <p>
@@ -140,21 +145,20 @@
           <h3>
             Agenda 02
             <b>
-              Insights & Data: Modernizando o estado de dados 
+              Insights & Data: Modernizando o estado de dados<br> 
               IDEA
             </b>
-            <i>
-              Migração de ambiente não Cloud​.
-            </i>      
+                 
           </h3>
 
-          <p>
-            IDEA é a aplicação da Capgemini que potencializa um ambiente de nuvem ágil, permitindo a adoção de IA e Análise de Dados em toda a empresa para acelerar o valor dos negócios.  ​
-            <br><br>
-            A aplicação é um conjunto integrado de aceleradores, estruturas, metodologias, melhores práticas e recursos de implementação que ajudam a modernizar, democratizar e industrializar dados. Da ingestão até a habilitação para visualização, possibilita o uso de modelos de Machine Learning com governança de acessos e controle de recursos usados (processamento de armazenagem).​
-            <br><br>
-            Com IDEA by Capgemini, podemos observar melhores controles de custos de infraestrutura e a adoção de um modelo de DataOps, trazendo melhores resultados para clientes a partir da redução do time-to-market, considerando insights acionáveis.
-          </p>
+          <p><b>Modernizando o estado de dados</b><br>
+IDEA é a aplicação da Capgemini que potencializa um ambiente de nuvem ágil, permitindo a adoção de IA e Análise de Dados em toda a 
+empresa para acelerar o valor dos negócios.<br><br> 
+A aplicação é um conjunto integrado de aceleradores, estruturas, metodologias, melhores práticas e recursos de 
+implementação que ajudam a modernizar, democratizar e industrializar dados. Da ingestão até a habilitação para visualização, possibilita o 
+uso de modelos de Machine Learning com governança de acessos e controle de recursos usados (processamento de armazenagem).​<br><br>
+Com IDEA by Capgemini, podemos observar melhores controles de custos de infraestrutura e a adoção de um modelo 
+de DataOps, trazendo melhores resultados para clientes a partir da redução do time-to-market, considerando insights acionáveis.</p>
 
           <div class="flex">
           <p>
@@ -219,18 +223,17 @@
           <h3>
             Agenda 03
             <b>
-              Cloud: Maximização dos benefícios ao negócio
-              Cap360
+              Cloud: Modernização de aplicações
             </b>     
           </h3>
 
-          <p>
-            Criar uma propriedade de TI revitalizada para o Bradesco, acelerar a jornada de transformação de aplicações legadas para a nuvem e simplificar a proteção para o futuro em todo o ecossistema são fatores indispensáveis quando se trata de transformação de legado.​
-            <br><br>
-            A metodologia proprietária CAP360 é uma abordagem de revitalização comprovada, que utiliza uma plataforma para analisar códigos legados, componentização e priorizar com base na viabilidade, criticidade, disponibilidade de destino e benefício comercial.​
-            <br><br>
-            Através do CAP360 identificamos o tamanho, complexidade, intensidade de I/O, dependência e estabilidade de todos os serviços para revitalização e otimização de legado com base em 4 pilares: Redução do débito técnico e otimização, Decomposição Funcional, Diagramas de Fluxo de Controle e Identificação de indicadores para integração e estado de transição.
-          </p>
+          <p>Criar uma propriedade de TI revitalizada para o Bradesco, acelerar a jornada de transformação de aplicações legadas para a nuvem e 
+simplificar a proteção para o futuro em todo o ecossistema são fatores indispensáveis quando se trata de transformação de legado.​<br><br>
+A metodologia proprietária da CAP360 é uma abordagem de revitalização comprovada, que utiliza uma plataforma para analisar códigos 
+legados, componentização e prioriza com base na viabilidade, criticidade, disponibilidade de destino e benefício comercial.<br><br>
+Através do CAP360 identificamos o tamanho, complexidade, intensidade de I / O, dependência e estabilidade de todos os serviços para 
+revitalização e otimização legado em 4 pilares: Redução do débito técnico e otimização, Decomposição Funcional, Diagramas de Fluxo de 
+Controle e Identificação de indicadores para integração e estado de transição.</p>
 
           <div class="flex">
           <p>
@@ -368,8 +371,6 @@
             Agenda 05
             <b>
               Hyperautomação e Empoderamento: Uma abordagem Low/NoCode
-              <br><br>
-              Service Now
             </b>
             <i>
               Velocidade de desenvolvimento, disponibilidade de recursos e aumento de eficiência operacional​.
