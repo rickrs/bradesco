@@ -595,7 +595,7 @@
           <b>
             Vitor Mariath
             <i>
-              Diretor de Cloud e Data Services, Capgemini Brasil
+            Diretor de Cloud e Data Services na Capgemini Brasil
             </i>
           </b>
         </div>
@@ -1089,7 +1089,7 @@
           <img src="assets/img/Vitor-Mariath.png" alt="">
           <span>
             <b>Vitor Mariath</b>
-            Senior Energy advisor to Capgemini Chairman
+            Diretor de Cloud e Data Services na Capgemini Brasil
           </span>
           <hr>
           <p>
