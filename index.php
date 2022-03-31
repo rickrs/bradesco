@@ -64,10 +64,7 @@
         </div>
         <div class="col">
           <h3>
-            Agenda 01 <br>
-            <b>
-              Real Time Marketing
-             </b>    
+            Agenda 01 │ Real Time Marketing  
           </h3>
 
           <p>
@@ -143,12 +140,10 @@ tecnologia.</p>
         </div>
         <div class="col">
           <h3>
-            Agenda 02
+            Agenda 02 │ Insights & Data: Modernizando o estado de dados<br> 
             <b>
-              Insights & Data: Modernizando o estado de dados<br> 
-              IDEA
-            </b>
-                 
+            IDEA
+            </b>                 
           </h3>
 
           <p><b>Modernizando o estado de dados</b><br>
@@ -221,10 +216,7 @@ de DataOps, trazendo melhores resultados para clientes a partir da redução do 
         </div>
         <div class="col">
           <h3>
-            Agenda 03
-            <b>
-              Cloud: Modernização de aplicações
-            </b>     
+            Agenda 03 │ Cloud: Modernização de aplicações    
           </h3>
 
           <p>Criar uma propriedade de TI revitalizada para o Bradesco, acelerar a jornada de transformação de aplicações legadas para a nuvem e 
@@ -296,8 +288,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
         </div>
         <div class="col">
           <h3>
-            Agenda 04
-            <b>Cyber Security: Confiança Zero - A jornada de um dado em um mundo em que a confiança é tudo</b>    
+            Agenda 04 │ Cyber Security: Confiança Zero - A jornada de um dado em um mundo em que a confiança é tudo   
           </h3>
 
           <p>
@@ -368,10 +359,8 @@ Controle e Identificação de indicadores para integração e estado de transiç
         </div>
         <div class="col">
           <h3>
-            Agenda 05
-            <b>
-              Hyperautomação e Empoderamento: Uma abordagem Low/NoCode
-            </b>
+            Agenda 05 │ Hyperautomação e Empoderamento: Uma abordagem Low/NoCode
+            <br>
             <i>
               Velocidade de desenvolvimento, disponibilidade de recursos e aumento de eficiência operacional​.
             </i>      
@@ -444,10 +433,8 @@ Controle e Identificação de indicadores para integração e estado de transiç
         </div>
         <div class="col">
           <h3>
-            Agenda 06
-            <b>
-              Metaverso: Óculos no rosto, cabeça nas nuvens… e pés no chão​
-            </b>
+            Agenda 06 │ Metaverso: Óculos no rosto, cabeça nas nuvens… e pés no chão​
+            <br><br>
             <i>
             Metaverso é um tema que muitas empresas tem avaliado e discutido, mas será que realmente existe? 
             <br><br>
@@ -520,8 +507,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
         </div>
         <div class="col">
           <h3>
-            Agenda 07​
-            <b>5G: Potencializando novos modelos​</b>     
+            Agenda 07​ │ 5G: Potencializando novos modelos​     
           </h3>
 
           <p>
