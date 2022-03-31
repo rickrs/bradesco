@@ -875,7 +875,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
       </h2>
       <img style="width: 100%; max-width: 450px; margin: 20px 0 40px;" src="assets/img/logos-apoiadores.png" alt="">
 
-      <h2>agenda</h2>
+      <h2>Agenda</h2>
       <div class="row">
         <div class="col">
           <span>
