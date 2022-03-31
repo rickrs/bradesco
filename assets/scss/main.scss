@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;100;700&display=swap');
 
 $font : 'Ubuntu', sans-serif;
 
@@ -26,20 +26,20 @@ body{
 .topo{
   background: url("../img/bg.jpg") #000 no-repeat top center;
   background-size: cover;
-  padding: 75px 0;
+  padding: 40px 0;
   .top{
     display: flex;
     align-items: center;
     a{
       font-family: $font;
-      font-size: 18px;
+      font-size: 12px;
       color: #fff;
       text-transform: uppercase;
       font-weight: bold;
-      margin: 0 15px;
+      margin-right: 70px;
       &:first-child{
-        margin-left: 0;
-        margin-right: auto;
+        margin-left: -100px;
+        margin-right: 75px;
       }
       &:last-child{
         margin-right: 0;
@@ -50,13 +50,14 @@ body{
     font-family: $font;
     font-size: 23px;
     color: #fff;
-    font-weight: normal;
+    font-weight: 100;
     max-width: 400px;
     width: 100%;
     display: block;
-    margin: 100px 0 50px;
+    margin: 80px 0 50px;
     b{
       font-weight: bold;
+      display: block;
     }
   }
 
@@ -87,25 +88,25 @@ body{
 }
 
 .hellobar{
-  padding: 30px 0;
-  background: #37B3E4;
+  padding: 15px 0;
+  background: #37b3e4d9;
   position: fixed;
   width: 100%;
   bottom: 0;
   display: block;
   z-index: 10;
+  backdrop-filter: blur(3px);
   .btns{
     display: flex;
-    max-width: 420px;
+    max-width: 600px;
     width: 100%;
     margin: 0 auto;
     a{
-      max-width: 200px;
       width: 100%;
       padding: 10px 5px;
       box-sizing: border-box;
       font-family: $font;
-      font-size: 18px;
+      font-size: 20px;
       font-weight: bold;
       text-align: center;
       margin: 0 5px;
@@ -114,11 +115,13 @@ body{
         background-color: #fff;
         color: #37B3E4;
         padding: 12px 5px;
+        max-width: 160px;
       }
       &:last-child{
-        background-color: #37B3E4;
+        background-color: #37b3e4d9;
         color: #fff;
-        border: 2px solid #fff;
+        border: 3px solid #fff;
+        max-width: 250px;
       }
     }
   }
@@ -129,22 +132,34 @@ body{
   h1{
     font-family: $font;
     font-size: 35px;
-    font-weight: bold;
+    font-weight: 100;
     color: #37B3E4;
+    margin-bottom: 32px;
+    max-width: 760px;
   }
   p{
     font-family: $font;
     font-size: 18px;
     color: #fff;
     width: 100%;
+    max-width: 760px;
   }
   h2{
     font-family: $font;
     font-size: 18px;
     color: #fff;
+    font-weight: 100;
   }
   .row{
     display: block;
+    hr{
+      display: block;
+      border: 0;
+      width: 100px;
+      height: 1px;
+      background: #37B3E4;
+      margin-bottom: 50px;
+    }
     .tracks{
       display: flex;
       hr{
@@ -180,19 +195,22 @@ body{
       }
       i{
         font-family: $font;
-        font-size: 16px;
-        font-weight: bold;
+        font-size: 13px;
+        font-weight: 100;
         font-style: normal;
         display: block;
         margin-bottom: 20px;
+        b{
+          font-weight: bold;
+        }
       }
       p{
         font-family: $font;
-        font-size: 16px;
+        font-size: 13px;
       }
       a{
         font-family: $font;
-        font-size: 16px;
+        font-size: 13px;
         color: #37B3E4;
         display: block;
         margin-top: 20px;
@@ -213,8 +231,8 @@ body{
   padding: 75px 0;
   h3{
     font-family: $font;
-    font-size: 40px;
-    font-weight: bold;
+    font-size: 64px;
+    font-weight: 100;
     color: #37B3E4;
     text-align: center;
     margin-bottom: 55px;
@@ -228,7 +246,7 @@ body{
       margin: 0 auto;
       span{
         font-family: $font;
-        font-size: 10px;
+        font-size: 12px;
         color: #fff;
         margin: 20px 0;
         display: block;
@@ -246,17 +264,17 @@ body{
       }
       a{
         font-family: $font;
-        font-size: 16px;
+        font-size: 12px;
         color: #fff;
         display: block;
         margin-top: 20px;
       }
       hr{
         display: block;
-        width: 100px;
+        width: 100%;
         height: 1px;
         background: #37B3E4;
-        margin: 30px 0;
+        margin: 15px 0;
         border: 0;
       }
     }
@@ -267,16 +285,17 @@ body{
   padding: 75px 0 175px;
   h3{
     font-family: $font;
-    font-size: 16px;
+    font-size: 13px;
     color: #fff;
     text-transform: uppercase;
     text-align: center;
+    font-weight: 100;
   }
   img{
     display: block;
     width: 100%;
     max-width: 600px;
-    margin: 20px auto;
+    margin: 0px auto 20px;
   }
   .apoio{
     display: flex;
@@ -304,8 +323,9 @@ body{
   }
   p{
     font-family: $font;
-    font-size: 11px;
+    font-size: 9px;
     color: #fff;
+    font-weight: 100;
     text-align: right;
     margin-top: 30px;
   }
@@ -347,7 +367,7 @@ body{
     text-align: right;
     font-family: $font;
     color: #000;
-    font-size: 18px;
+    font-size: 12px;
     position: fixed;
     right: 50px;
     top: 50px;
@@ -355,10 +375,14 @@ body{
   .row{
     display: flex;
     align-items: center;
+    .col.col:first-child{
+      margin-left: auto;
+    }
     .col:last-child{    
       width: 100%;
       max-width: 700px;
       margin-left: 40px;
+      margin-right: auto;
     }
     img{
       width: 120px;
@@ -369,25 +393,29 @@ body{
     b{
       font-family: $font;
       color: #fff;
-      font-size: 18px;
+      font-size: 16px;
       font-weight: bold;
       text-align: right;
       display: block;
+      max-width: 150px;
+      width: 100%;
       i{
         font-style: normal;
         font-weight: normal;
-        font-size: 14px;
+        font-size: 12px;
         display: block;
       }
     }
     p{
       font-family: $font;
       color: #fff;
-      font-size: 18px;
-      font-weight: normal;
+      font-size: 19px;
+      font-weight: 100;
       padding-left: 10px;
       line-height: 1.4;
       border-left: 1px solid #fff;
+      max-width: 650px;
+      width: 100%;
     }
   }
 }
@@ -409,7 +437,7 @@ body{
     text-align: right;
     font-family: $font;
     color: #fff;
-    font-size: 18px;
+    font-size: 12px;
     position: fixed;
     right: 50px;
     top: 50px;
@@ -475,7 +503,7 @@ body{
     text-align: right;
     font-family: $font;
     color: #fff;
-    font-size: 18px;
+    font-size: 12px;
     position: fixed;
     right: 50px;
     top: 50px;
@@ -594,8 +622,8 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,179,228,1) 0%, rgb
   .close{
     text-align: right;
     font-family: $font;
-    color: #fff;
-    font-size: 18px;
+    color: #37B3E4;
+    font-size: 12px;
     position: fixed;
     right: 50px;
     top: 50px;
@@ -684,9 +712,12 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,179,228,1) 0%, rgb
     display: block;
     a{
       display: block;
-      margin: 10px auto;
+      margin: 10px auto !important;
       text-align: center;
     }
+  }
+  .agenda .row hr{
+    margin: 0 auto 50px;
   }
   .container {
     max-width: 320px;
@@ -702,8 +733,17 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,179,228,1) 0%, rgb
       text-align: center;
     }
   }
+  .hellobar .btns a{
+    font-size: 18px;
+  }
+  .palestrantes, .agenda{
+    padding: 30px 0;
+  }
+  .agenda h1, .palestrantes h3{
+    font-size: 25px;
+  }
   .topo{
-    padding: 75px 0 20px;
+    padding: 25px 0 20px;
   }
   .topo .data{
     display: block !important;
@@ -807,6 +847,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,179,228,1) 0%, rgb
   }
   .apresentador .row b{
     text-align: center;
+    margin: 0 auto;
   }
   .apresentador .row .col:last-child{
     margin: 0;
@@ -829,6 +870,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,179,228,1) 0%, rgb
   }
   .dias{
     overflow: scroll;
+    padding: 20px 0;
   }
   .dias .escala .tabela{
     zoom: .8;

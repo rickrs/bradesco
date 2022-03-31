@@ -875,7 +875,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
       </h2>
       <img style="width: 100%; max-width: 450px; margin: 20px 0 40px;" src="assets/img/logos-apoiadores.png" alt="">
 
-      <h2>Agenda</h2>
+      <h2>agenda</h2>
       <div class="row">
         <div class="col">
           <span>
@@ -886,7 +886,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  Agenda 01 <br>
+                  <b>Agenda 01</b> <br>
                   Real Time Marketing
                 </i>
                 Como antecipar as necessidades dos clientes de forma Omnichannel.
@@ -897,7 +897,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  Agenda 02 <br>
+                  <b>Agenda 02</b> <br>
                   Insights & Data: Modernizando o estado de dados <br>
                   IDEA
                 </i>
@@ -907,6 +907,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             </div>
           </div>
         </div>
+        <hr>
         <div class="col">
           <span>
             19/04
@@ -916,7 +917,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  Agenda 03 <br>
+                  <b>Agenda 03</b> <br>
                   Cloud: Maximização dos benefícios ao negócio <br>
                   Cap360
                 </i>
@@ -928,7 +929,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  Agenda 04 <br>
+                  <b>Agenda 04</b> <br>
                   Cyber Security: Confiança Zero - A jornada de um dado em um mundo em que a confiança é tudo
                 </i>
                 Segurança e proteção de dados durante todo o ciclo de vida do cliente. 
@@ -937,12 +938,13 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             </div>
           </div>          
         </div>
+        <hr>
         <div class="col">
           <div class="tracks">
             <div class="track-col">
               <p>
                 <i>
-                  Agenda 05 <br>
+                  <b>Agenda 05</b> <br>
                   Hyperautomação e Empoderamento: Uma abordagem Low/NoCode <br>
                   Service Now
                 </i>
@@ -952,6 +954,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             </div>
           </div>
         </div>
+        <hr>
         <div class="col">
           <span>
             26/04
@@ -961,7 +964,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  Agenda 06 <br>
+                  <b>Agenda 06</b> <br>
                   Metaverso: Óculos no rosto, cabeça nas nuvens… e pés no chão
                 </i>
                 Entenda o que é o Metaverso e quais são as possibilidades de considera-lo como um novo canal digital
@@ -972,7 +975,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  Agenda 07 <br>
+                  <b>Agenda 07</b> <br>
                   5G: Potencializando novos modelos
                 </i>
                 Descubra como o 5G pode habilitar novos modelos de negócio.
