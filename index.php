@@ -907,7 +907,6 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
                   Cloud: Maximização dos benefícios ao negócio <br>
                   Cap360
                 </i>
-                Jornada de transformação para mover até 75% das aplicações para a nuvem.
                 <a href="#vermais" id="dia3">Ver Mais</a>
               </p>
             </div>
