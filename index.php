@@ -126,7 +126,7 @@ tecnologia.</p>
           <p>
             <b>Palestrante:</b>
             <i>Luciano Miyake</i>
-            Diretor de Aliança Salesforce na Capgemini Brasil.
+            Head de Alianças para Salesforce na Capgemini
           </p>
         </div>
       </div>
@@ -146,7 +146,7 @@ tecnologia.</p>
             </b>                 
           </h3>
 
-          <p><b>Modernizando o estado de dados</b><br>
+          <p>
 IDEA é a aplicação da Capgemini que potencializa um ambiente de nuvem ágil, permitindo a adoção de IA e Análise de Dados em toda a 
 empresa para acelerar o valor dos negócios.<br><br> 
 A aplicação é um conjunto integrado de aceleradores, estruturas, metodologias, melhores práticas e recursos de 
@@ -345,7 +345,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <p>
           <b>Palestrante:</b>
             <i>Leonardo Carissimi</i>
-            Diretor da Prática de Cybersecurity na Capgemini Brasil
+            Diretor da Prática de Ciber Segurança e Privacidade na Capgemini Brasil
           </p>
         </div>
       </div>
@@ -359,17 +359,17 @@ Controle e Identificação de indicadores para integração e estado de transiç
         </div>
         <div class="col">
           <h3>
-            Agenda 05 │ Hyperautomação e Empoderamento: Uma abordagem Low/NoCode
+            Agenda 05 │ H Service Now: Gestão de Serviços e Operações
             <br>
             <i>
-              Velocidade de desenvolvimento, disponibilidade de recursos e aumento de eficiência operacional​.
+            Velocidade de desenvolvimento, disponibilidade de recursos e aumento de eficiência operacional
             </i>      
           </h3>
 
           <p>
-            Através de fluxos de trabalho digitais integrados aos sistemas existentes, é possível modernizar a forma de trabalho em Operações de Negócios e TI, gerenciar Risco, ESG, Programas e Portfolio de Projetos. Além de ter controle sobre os gastos de software e ciclo de vida dos ativos (obsolescência).​
-            <br><br>
-            Tudo isso a partir de uma interface amigável, moderna, nativa mobile e segura onde cada usuário tem uma experiência própria, acessando rapidamente o que é mais relevante para o seu papel na organização. ServiceNow é a ponte entre pessoas e tecnologia.  
+          Por meio de fluxos de trabalho digitais, integrados aos sistemas existentes, é possível modernizar a forma de trabalho em Operações de Negócios e TI, gerenciar risco, ESG, programas e portfolio de projetos, ter controle sobre os gastos de software e ciclo de vida dos ativos (obsolescência).
+          <br><br>
+          Tudo isso a partir de uma interface amigável, moderna, nativa mobile e segura, onde cada usuário tem uma experiência própria, acessando rapidamente o que é mais relevante para o seu papel na organização. ServiceNow é a ponte entre pessoas e tecnologia.
           </p>
 
           <div class="flex">
@@ -416,7 +416,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <p>
           <b>Palestrante:</b>
             <i>Guilherme Duarte</i>
-            Desenvolvimento de Negócios ServiceNow na Capgemini Brasil.
+            Desenvolvimento de Negócios ServiceNow na Capgemini Brasil
             <br><br>
             <i>Erik Elias</i>
             Gerente Operações Digitais do CoE ServiceNow na Capgemini Brasil.
@@ -493,7 +493,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <p>
           <b>Palestrante:</b>
             <i>Silvio Dantas</i>
-            Diretor de Inovação - AIE na Capgemini Brasil.
+            Diretor Executivo de Inovação & Transformação Digital na Capgemini Brasil
           </p>
         </div>
       </div>
@@ -562,11 +562,11 @@ Controle e Identificação de indicadores para integração e estado de transiç
 
           <p>
             <b>Palestrante:</b>
-            <i>Vitor Marath</i>
-            Líder da Prática de Cloud na Capgemini Brasil.
-            <br><br>
             <i>Silvio Dantas</i>
-            Diretor de Inovação – AIE na Capgemini Brasil.
+            Diretor de Inovação - AIE na Capgemini Brasil
+            <br><br>
+            <i>Vitor Mariath</i>
+            Líder da Prática de Cloud na Capgemini Brasil
             </p>
         </div>
       </div>
@@ -622,7 +622,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Bernardo Caldeira
             <i>
-            Business Analytics Manager na Capgemini Brasil
+            Gerente de Soluções Digitais na Capgemini Brasil
             </i>
           </b>
         </div>
@@ -658,7 +658,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Silvio Dantas
             <i>
-            Diretor de Inovação - AIE na Capgemini Brasil.
+            Diretor Executivo de Inovação & Transformação Digital na Capgemini Brasil
             </i>
           </b>
         </div>
@@ -677,13 +677,13 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Luciano Miyake
             <i>
-            Diretor de Aliança Salesforce na Capgemini Brasil.
+            Head de Alianças para Salesforce na Capgemini
             </i>
           </b>
         </div>
         <div class="col">
           <p>
-            Luciano acumula passagens pela Voxxel, T-Systems, Sintel e PwC Brasil, vem atuando nos últimos 20 anos com soluções de vendas, marketing e serviços e liderou a estruturação das práticas de Vendas e Delivery Salesforce em duas grandes multinacionais.
+            Luciano acumula passagens pela Voxxel, T-Systems, Sintel e PwC Brasil. Vem atuando nos últimos 20 anos com soluções de vendas, marketing e serviços e liderou a estruturação das práticas de Vendas e Delivery Salesforce em duas grandes multinacionais.
           </p>
         </div>
       </div> 
@@ -709,9 +709,9 @@ Controle e Identificação de indicadores para integração e estado de transiç
         <div class="col">
           <img src="assets/img/Erick-Wilson.png" alt="">
           <b>
-          Erik Elias
+          Erick Elias
             <i>
-            Gerente Operações Digitais do CoE ServiceNow na Capgemini Brasil. 
+            Gerente Operações Digitais do CoE ServiceNow na Capgemini Brasil 
             </i>
           </b>
         </div>
@@ -737,7 +737,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <b>
             Ricardo Paranhos
             <i>
-            Cloud Alliance Manager na Capgemini Brasil.
+            Cloud Alliance Manager na Capgemini Brasil
             </i>
           </b>
         </div>
@@ -756,15 +756,15 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <b>
             Leonardo Carissimi
             <i>
-            Diretor da Prática de Cybersecurity na Capgemini Brasil.
+            Diretor da Prática de Ciber Segurança e Privacidade na Capgemini Brasil
             </i>
           </b>
         </div>
         <div class="col">
           <p>
-            Leonardo possui bacharelado e mestrado em Ciências da Computação pela Universidade Federal do Rio Grande do Sul e MBA em Finanças Corporativas pelo IBMEC. Ainda detém algumas das principais certificações internacionais do mercado de Ciber Segurança incluindo CISSP (Certified Information Systems Security Professional) e Auditor Líder da ISO 27001. 
+            Leonardo possui bacharelado e mestrado em Ciências da Computação pela Universidade Federal do Rio Grande do Sul e MBA em Finanças Corporativas pelo IBMEC. Ainda detém algumas das principais certificações internacionais do mercado de cibersegurança incluindo CISSP (Certified Information Systems Security Professional) e Auditor Líder da ISO 27001. 
             <br><br>
-            Profissional com mais de 25 anos dedicados a este mercado, já atuou em diferentes posições em empresas nacionais e multinacionais de prestação de serviços de Tecnologia e Cibersegurança.
+            Profissional com mais de 25 anos dedicados a este mercado, já atuou em diferentes posições em empresas nacionais e multinacionais de prestação de serviços de Tecnologia e cibersegurança.
           </p>
         </div>
       </div> 
@@ -778,7 +778,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
       <div class="row">
         <div class="col">
           <p>
-            <b>Embarque com a gente nesta jornada de aceleração da inovação.</b>
+            <b style="font-weight: bold;">Embarque com a gente nesta jornada de aceleração da inovação.</b>
 
             Você pode escolher participar de quantas Agendas quiser. Assinale no formulário ao lado as que são do seu interesse e complete o cadastro para receber o link do evento.
           </p>
@@ -931,8 +931,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
               <p>
                 <i>
                   <b>Agenda 05</b> <br>
-                  Hyperautomação e Empoderamento: Uma abordagem Low/NoCode <br>
-                  Service Now
+                  Hyperautomação e Empoderamento: Uma abordagem Low/NoCode
                 </i>
                 Integrando operações e sistemas para colocar as pessoas no centro de tudo.
                 <a href="#vermais" id="dia5">Ver Mais</a>
@@ -982,7 +981,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <img src="assets/img/Bernardo-Caldeira.png" alt="">
           <span>
             <b>Bernardo Caldeira</b>
-            Business Analytics Manager na Capgemini Brasil.
+            Gerente de Soluções Digitais na Capgemini Brasil
           </span>
           <hr>
           <p>
@@ -995,7 +994,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <img src="assets/img/Caue-Moresi.png" alt="">
           <span>
             <b>Caue Moresi</b>
-            Head de Insights & Data na Capgemini Brasil.
+            Head de Insights & Data na Capgemini Brasil
           </span>
           <hr>
           <p>
@@ -1007,7 +1006,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
         <div class="col">
           <img src="assets/img/Erick-Wilson.png" alt="">
           <span>
-            <b>Erik Elias</b>
+            <b>Erick Elias</b>
             Gerente Operações Digitais do CoE ServiceNow na Capgemini Brasil
           </span>
           <hr>
@@ -1021,7 +1020,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <img src="assets/img/Guilherme-Duarte.png" alt="">
           <span>
             <b>Guilherme Duarte</b>
-            Desenvolvimento de Negócios ServiceNow na Capgemini Brasil.
+            Desenvolvimento de Negócios ServiceNow na Capgemini Brasil
           </span>
           <hr>
           <p>
@@ -1036,7 +1035,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <img src="assets/img/Leonardo-Carissimi.png" alt="">
           <span>
             <b>Leonardo Carissimi</b>
-            Diretor da Prática de Cybersecurity na Capgemini Brasil.
+            Diretor da Prática de Ciber Segurança e Privacidade na Capgemini Brasil
           </span>
           <hr>
           <p>
@@ -1049,7 +1048,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <img src="assets/img/Luciano-Miyake.png" alt="">
           <span>
             <b>Luciano Miyake</b>
-            Diretor de Aliança Salesforce na Capgemini Brasil.
+            Head de Alianças para Salesforce na Capgemini
           </span>
           <hr>
           <p>
@@ -1062,7 +1061,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <img src="assets/img/Ricardo-Paranhos.png" alt="">
           <span>
             <b>Ricardo Paranhos</b>
-            Cloud Alliance Manager na Capgemini Brasil.
+            Cloud Alliance Manager na Capgemini Brasil
           </span>
           <hr>
           <p>
@@ -1075,7 +1074,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <img src="assets/img/Silvio-Dantas.png" alt="">
           <span>
             <b>Silvio Dantas</b>
-            Diretor de Inovação - AIE na Capgemini Brasil.
+            Diretor Executivo de Inovação & Transformação Digital na Capgemini Brasil
           </span>
           <hr>
           <p>
