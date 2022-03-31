@@ -202,7 +202,7 @@ de DataOps, trazendo melhores resultados para clientes a partir da redução do 
             Head de Insights & Data na Capgemini Brasil
             <br><br>
             <i>Bernardo Caldeira</i>
-            Business Analytics Manager na Capgemini Brasil
+            Gerente de Soluções Digitais na Capgemini Brasil 
           </p>
         </div>
       </div>
