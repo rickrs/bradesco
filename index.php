@@ -129,7 +129,7 @@ tecnologia.</p>
           <p>
             <b>Palestrante:</b>
             <i>Luciano Miyake</i>
-            Head de Alianças para Salesforce na Capgemini Brasil
+            Diretor de Aliança Salesforce na Capgemini Brasil.
           </p>
         </div>
       </div>
@@ -207,7 +207,7 @@ de DataOps, trazendo melhores resultados para clientes a partir da redução do 
             Head de Insights & Data na Capgemini Brasil
             <br><br>
             <i>Bernardo Caldeira</i>
-            Gerente de Soluções Digitais na Capgemini Brasil
+            Business Analytics Manager na Capgemini Brasil
           </p>
         </div>
       </div>
@@ -427,10 +427,10 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <p>
           <b>Palestrante:</b>
             <i>Guilherme Duarte</i>
-            Desenvolvimento de Negócios e Soluções ServiceNow na Capgemini Brasil
+            Desenvolvimento de Negócios ServiceNow na Capgemini Brasil.
             <br><br>
-            <i>Erick Elias</i>
-            Gerente Operações Digitais do CoE ServiceNow, Capgemini.
+            <i>Erik Elias</i>
+            Gerente Operações Digitais do CoE ServiceNow na Capgemini Brasil.
           </p>
         </div>
       </div>
@@ -506,7 +506,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <p>
           <b>Palestrante:</b>
             <i>Silvio Dantas</i>
-            Executive Director of Innovation & Digital Transformation na Capgemini Brasil
+            Diretor de Inovação - AIE na Capgemini Brasil.
           </p>
         </div>
       </div>
@@ -577,10 +577,10 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <p>
             <b>Palestrante:</b>
             <i>Vitor Marath</i>
-            Líder da Prática de Cloud na Capgemini Brasil
+            Líder da Prática de Cloud na Capgemini Brasil.
             <br><br>
             <i>Silvio Dantas</i>
-            Diretor de Inovação – AIE na Capgemini Brasil
+            Diretor de Inovação – AIE na Capgemini Brasil.
             </p>
         </div>
       </div>
@@ -596,13 +596,15 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Vitor Mariath
             <i>
-            Diretor de Cloud e Data Services na Capgemini Brasil
+            Líder da Prática de Cloud na Capgemini Brasil.
             </i>
           </b>
         </div>
         <div class="col">
           <p>
-            Vitor Mariath é bacharel em Sistemas de Informação pela Universidade Feevale (Novo Hamburgo-RS), possui MBA em Negócios pela La Salle Business School e experiências internacionais em projetos de transformação de datacenter, resiliência e blockchain. Liderou projetos de infusão de práticas de SRE (Site Reliability Engineering) e de arquitetura, de design de infraestrutura, implementou plataformas AIOPS (Artificial Intelligence for IT Operations) e atuou na estratégia de implementação de diferentes nuvens, redefinindo o modelo e os processos operacionais dos clientes. Mariath soma a experiência de mais de 12 anos em
+          É bacharel em Sistemas de Informação pela Universidade Feevale (Novo Hamburgo-RS) e possui MBA em Negócios pela La Salle Business School, além de ter experiências internacionais em projetos de transformação de datacenter, resiliência e blockchain. 
+          <br><br>Liderou projetos de infusão de práticas de SRE (Site Reliability Engineering) e de arquitetura, design e infraestrutura. Implementou plataformas AIOPS (Artificial Intelligence for IT Operations) e atuou na estratégia de implementação de diferentes nuvens, redefinindo o modelo e os processos operacionais dos clientes. Mariath soma mais de 12 anos de experiência na área. 
+          
           </p>
         </div>
       </div>
@@ -621,7 +623,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <p>
             Atua diretamente com os clientes na descoberta, identificação, desenvolvimento e proposição de soluções focadas na Hyperautomação e Empoderamento de processos de negócio e TI.
             <br><br>
-            Desenvolveu uma carreira de Arquitetura de Soluções nos setores Financeiro, Teleomunicações, Varejo e Produtos de Consumo aconselhando executivos e suportando clientes no Brasil, Estados Unidos, França e Argentina em soluções avançadas de automação, autosserviço e integração de infra e sistemas. Graduado em Marketing, com MBA em Digital Business, apresenta um olhar de tecnologia a partir do impacto e necessidades das pessoas.
+            Desenvolveu uma carreira de Arquitetura de Soluções nos setores Financeiro, Telecomunicações, Varejo e Produtos de Consumo aconselhando executivos e suportando clientes no Brasil, Estados Unidos, França e Argentina em soluções avançadas de automação, autosserviço e integração de infra e sistemas. Graduado em Marketing, com MBA em Digital Business, apresenta um olhar de tecnologia a partir do impacto e necessidades das pessoas.
             <br><br>
             https://www.linkedin.com/in/guiduarte/ 
           </p>
@@ -634,7 +636,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Bernardo Caldeira
             <i>
-              Gerente de Soluções Digitais na Capgemini Brasil
+            Business Analytics Manager na Capgemini Brasil
             </i>
           </b>
         </div>
@@ -670,15 +672,15 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Silvio Dantas
             <i>
-              Executive Director of Innovation & Digital Transformation na Capgemini Brasil 
+            Diretor de Inovação - AIE na Capgemini Brasil.
             </i>
           </b>
         </div>
         <div class="col">
           <p>
-            Silvio Dantas é graduado em Tecnologia pela Universidade Mackenzie, possui MBA em Gestão Estratégica e Econômica de Negócios pela FGV. É Certificado em Estratégia e Inovação pela MIT Sloan School of Management em Boston (Estados Unidos), e frequentou a Singularity University no Vale do Silício (Estados Unidos), sendo certificado em PMP, Agile e Design Thinking. 
+          Graduado em Tecnologia pela Universidade Mackenzie, possui MBA em Gestão Estratégica e Econômica de Negócios pela FGV, sendo também certificado em Estratégia e Inovação pela MIT Sloan School of Management em Boston (EUA). Frequentou a Singularity University no Vale do Silício (EUA), sendo certificado em PMP, Agile e Design Thinking. 
             <br><br>
-            Dantas trabalhou na EDS/HP e na IBM, passou pela Wipro e Volkswagen nas quais foi Líder em digitalização e novas tecnologias, e nos últimos 2 anos tinha retornado a IBM como Líder de Inovação até vir para a Capgemini.
+            Dantas trabalhou na EDS/HP e na IBM, além de ter passado pela Wipro e Volkswagen, nas quais foi Líder em digitalização e novas tecnologias. Nos últimos 2 anos, esteve de volta à IBM como Líder de Inovação até vir para a Capgemini. 
           </p>
         </div>
       </div> 
@@ -689,7 +691,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Luciano Miyake
             <i>
-              Head de Alianças para Salesforce, Capgemini.
+            Diretor de Aliança Salesforce na Capgemini Brasil.
             </i>
           </b>
         </div>
@@ -706,13 +708,13 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Caue Moresi
             <i>
-              Head de Insights & Data na Capgemini Brasil
+              Head de Insights & Data na Capgemini Brasil.
             </i>
           </b>
         </div>
         <div class="col">
           <p>
-            Com mais de 10 anos de atuação no mundo de consultoria em tecnologia, liderando equipes de Engenharia de Dados e Ciência de Dados, Caue tem experiência comprovada na execução e gestão de grandes projetos transformacionais de dados na América Latina e Europa, para diversas indústrias. Atualmente é responsável pela prática de Insights & Data na Capgemini Brasil. Com habilidades em analytics e suas aplicações, Caue também tem como missão apoiar grandes players do mercado na integração entre as áreas de negócio e TI.
+            Com mais de 10 anos de atuação no mundo de consultoria em tecnologia, liderando equipes de Engenharia de Dados e Ciência de Dados, Caue tem experiência comprovada na execução e gestão de grandes projetos transformacionais de dados na América Latina e Europa, para diversas indústrias.<br><br> Atualmente é responsável pela prática de Insights & Data na Capgemini Brasil. Com habilidades em analytics e suas aplicações, Caue também tem como missão apoiar grandes players do mercado na integração entre as áreas de negócio e TI.
           </p>
         </div>
       </div>
@@ -721,15 +723,24 @@ Controle e Identificação de indicadores para integração e estado de transiç
         <div class="col">
           <img src="assets/img/Erick-Wilson.png" alt="">
           <b>
-          Erick Wilson
+          Erik Elias
             <i>
-            Gerente Operações Digitais do CoE ServiceNow, Capgemini. 
+            Gerente Operações Digitais do CoE ServiceNow na Capgemini Brasil. 
             </i>
           </b>
         </div>
         <div class="col">
           <p>
-          Líder do Cluster App Engine/ITOM para projetos ServiceNow da Capgemini Brasil. Mentor do projeto ServiceNow Training para a comunidade, que visa treinar, orientar e recolocar profissionais no mercado com mais de 100 participantes e da Academia ServiceNow Capgemini. Atuou durante 11 anos no setor público como Oficial do Exército e como gestor de times ágeis no projeto dos jogos olímpicos Rio 2016. No mercado privado, atua como gestor de times ServiceNow em projetos de grande porte para contas estratégicas da Capgemini Brasil, possuindo mais de 4 anos de experiência na plataforma. Graduado em Sistemas de Informação, com MBA em Gestão Estratégica, possui vasta experiência em funções de liderança, atuando desde 2013 em posições de gestão. Possui mais de 60 certificações/ acreditações na plataforma ServiceNow.
+          Líder do Cluster App Engine/ITOM para projetos ServiceNow da Capgemini Brasil. Mentor 
+do projeto ServiceNow Training para a comunidade, que visa treinar, orientar e recolocar 
+profissionais no mercado com mais de 100 participantes e mentor da Academia 
+ServiceNow Capgemini. Atuou durante 11 anos no setor público como Oficial do Exército e 
+como gestor de times ágeis no projeto dos Jogos Olímpicos Rio 2016. <br><br>
+No mercado privado, atua como gestor de times ServiceNow em projetos de grande porte 
+para contas estratégicas da Capgemini Brasil, possuindo mais de 4 anos de experiência na 
+plataforma. Graduado em Sistemas de Informação, com MBA em Gestão Estratégica, 
+possui vasta experiência em funções de liderança, atuando desde 2013 em posições de 
+gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceNow
           </p>
         </div>
       </div> 
@@ -740,7 +751,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Ricardo Paranhos
             <i>
-              Cloud Alliance Manager
+            Cloud Alliance Manager na Capgemini Brasil.
             </i>
           </b>
         </div>
@@ -759,7 +770,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>
             Leonardo Carissimi
             <i>
-              Diretor da Prática de Ciber Segurança e Privacidade da Capgemini Brasil.
+            Diretor da Prática de Cybersecurity na Capgemini Brasil.
             </i>
           </b>
         </div>
@@ -767,7 +778,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <p>
             Leonardo possui bacharelado e mestrado em Ciências da Computação pela Universidade Federal do Rio Grande do Sul e MBA em Finanças Corporativas pelo IBMEC. Ainda detém algumas das principais certificações internacionais do mercado de Ciber Segurança incluindo CISSP (Certified Information Systems Security Professional) e Auditor Líder da ISO 27001. 
             <br><br>
-            Profissional com mais de 25 anos dedicados a este mercado, já atuou em diferentes posições em empresas nacionais e multinacionais de prestação de serviços de Tecnologia e Ciber Segurança.
+            Profissional com mais de 25 anos dedicados a este mercado, já atuou em diferentes posições em empresas nacionais e multinacionais de prestação de serviços de Tecnologia e Cibersegurança.
           </p>
         </div>
       </div> 
@@ -798,7 +809,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
             <strong>Agenda 01:</strong>
             <br>
             Real Time Marketing <br>
-            Salesforce
+            
             <br><br>
             <strong>Agenda 02:</strong>
             <br>
@@ -812,7 +823,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
             <strong>Agenda 03:</strong>
             <br>
             Cloud: Maximização dos benefícios ao negócio <br>
-            Cap360
+            Com Cap360
             <br><br>
             <strong>Agenda 04:</strong>
             <br>
@@ -821,7 +832,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
             <strong>Agenda 05:</strong>
             <br>
             Hyperautomação e Empoderamento: Uma abordagem Low/NoCode <br>
-            Service Now
+            
           </p>
 
           <p style="font-size: 10px;">
@@ -982,7 +993,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <img src="assets/img/Bernardo-Caldeira.png" alt="">
           <span>
             <b>Bernardo Caldeira</b>
-            Gerente de Soluções Digitais na Capgemini Brasil
+            Business Analytics Manager na Capgemini Brasil.
           </span>
           <hr>
           <p>
@@ -995,7 +1006,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <img src="assets/img/Caue-Moresi.png" alt="">
           <span>
             <b>Caue Moresi</b>
-            Head de Insights & Data na <br> Capgemini Brasil
+            Head de Insights & Data na Capgemini Brasil.
           </span>
           <hr>
           <p>
@@ -1007,8 +1018,8 @@ Controle e Identificação de indicadores para integração e estado de transiç
         <div class="col">
           <img src="assets/img/Erick-Wilson.png" alt="">
           <span>
-            <b>Erick Elias</b>
-            Gerente Operações Digitais do CoE ServiceNow, Capgemini.
+            <b>Erik Elias</b>
+            Gerente Operações Digitais do CoE ServiceNow na Capgemini Brasil
           </span>
           <hr>
           <p>
@@ -1021,7 +1032,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <img src="assets/img/Guilherme-Duarte.png" alt="">
           <span>
             <b>Guilherme Duarte</b>
-            Desenvolvimento de Negócios e Soluções em ServiceNow, Capgemini Brasil.
+            Desenvolvimento de Negócios ServiceNow na Capgemini Brasil.
           </span>
           <hr>
           <p>
@@ -1036,7 +1047,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <img src="assets/img/Leonardo-Carissimi.png" alt="">
           <span>
             <b>Leonardo Carissimi</b>
-            Diretor da Prática de Ciber Segurança e Privacidade da Capgemini Brasil.
+            Diretor da Prática de Cybersecurity na Capgemini Brasil.
           </span>
           <hr>
           <p>
@@ -1049,11 +1060,11 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <img src="assets/img/Luciano-Miyake.png" alt="">
           <span>
             <b>Luciano Miyake</b>
-            Head de Alianças para Salesforce, Capgemini.
+            Diretor de Aliança Salesforce na Capgemini Brasil.
           </span>
           <hr>
           <p>
-            Luciano acumula passagens pela Voxxel, T-Systems, Sintel e PwC Brasil, vem atuando nos últimos 20 anos com soluções de vendas, marketing e serviços e liderou…
+            Luciano acumula passagens pela Voxxel, T-Systems, Sintel e PwC Brasil. Vem atuando nos últimos 20 anos com soluções de vendas, marketing e serviços e liderou…
           </p>
           <a href="#vermais" class="Luciano-Miyake">Ver mais</a>
         </div>
@@ -1062,7 +1073,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <img src="assets/img/Ricardo-Paranhos.png" alt="">
           <span>
             <b>Ricardo Paranhos</b>
-            Cloud Alliance <br> Manager
+            Cloud Alliance Manager na Capgemini Brasil.
           </span>
           <hr>
           <p>
@@ -1075,7 +1086,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <img src="assets/img/Silvio-Dantas.png" alt="">
           <span>
             <b>Silvio Dantas</b>
-            Executive Director of Innovation & Digital Transformation na Capgemini Brasil
+            Diretor de Inovação - AIE na Capgemini Brasil.
           </span>
           <hr>
           <p>
@@ -1090,7 +1101,7 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <img src="assets/img/Vitor-Mariath.png" alt="">
           <span>
             <b>Vitor Mariath</b>
-            Diretor de Cloud e Data Services na Capgemini Brasil
+            Líder da Prática de Cloud na Capgemini Brasil.
           </span>
           <hr>
           <p>
