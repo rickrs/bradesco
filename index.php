@@ -359,8 +359,8 @@ Controle e Identificação de indicadores para integração e estado de transiç
         </div>
         <div class="col">
           <h3>
-            Agenda 05 │ H Service Now: Gestão de Serviços e Operações
-            <br>
+            Agenda 05 │ Service Now: Gestão de Serviços e Operações
+            <br><br>
             <i>
             Velocidade de desenvolvimento, disponibilidade de recursos e aumento de eficiência operacional
             </i>      
@@ -907,6 +907,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
                   Cloud: Maximização dos benefícios ao negócio <br>
                   Cap360
                 </i>
+                Acelerando a jornada de transformação de aplicações legadas para a nuvem
                 <a href="#vermais" id="dia3">Ver Mais</a>
               </p>
             </div>
