@@ -789,7 +789,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           <p style="font-size: 10px;">
             <strong style="color:#37B3E4">12/04 14h às 16h30</strong>
             <br><br>
-            <strong>Agenda 01:</strong>
+            <strong>Agenda 01</strong>
             <br>
             Real Time Marketing <br>
             
@@ -869,8 +869,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b>Agenda 01</b> <br>
-                  Real Time Marketing
+                  <b style="color: #37B3E4;">Agenda 01 │ Real Time Marketing</b>
                 </i>
                 Como antecipar as necessidades dos clientes de forma Omnichannel.
                 <a href="#vermais" id="dia1">Ver Mais</a>
@@ -880,8 +879,8 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b>Agenda 02</b> <br>
-                  Insights & Data: Modernizando o estado de dados <br>
+                  <b style="color: #37B3E4;">Agenda 02 │ Insights & Data: Modernizando o estado de dados</b>
+                   <br>
                   IDEA
                 </i>
                 Conheça nossos cases, metodologias e ferramenta para preconizar um framework de engenharia de dados.
@@ -900,8 +899,8 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b>Agenda 03</b> <br>
-                  Cloud: Maximização dos benefícios ao negócio <br>
+                  <b style="color: #37B3E4;">Agenda 03 │ Cloud: Maximização dos benefícios ao negócio</b>
+                  <br>
                   Cap360
                 </i>
                 Acelerando a jornada de transformação de aplicações legadas para a nuvem
@@ -912,8 +911,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b>Agenda 04</b> <br>
-                  Cyber Security: Confiança Zero - A jornada de um dado em um mundo em que a confiança é tudo
+                  <b style="color: #37B3E4;">Agenda 04 │ Cyber Security: Confiança Zero - A jornada de um dado em um mundo em que a confiança é tudo</b>
                 </i>
                 Segurança e proteção de dados durante todo o ciclo de vida do cliente. 
                 <a href="#vermais" id="dia4">Ver Mais</a>
@@ -927,8 +925,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b>Agenda 05</b> <br>
-                  Hyperautomação e Empoderamento: Uma abordagem Low/NoCode
+                  <b style="color: #37B3E4;">Agenda 05 │ Hyperautomação e Empoderamento: Uma abordagem Low/NoCode</b>
                 </i>
                 Integrando operações e sistemas para colocar as pessoas no centro de tudo.
                 <a href="#vermais" id="dia5">Ver Mais</a>
@@ -946,8 +943,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b>Agenda 06</b> <br>
-                  Metaverso: Óculos no rosto, cabeça nas nuvens… e pés no chão
+                  <b style="color: #37B3E4;">Agenda 06 │ Metaverso: Óculos no rosto, cabeça nas nuvens… e pés no chão</b>
                 </i>
                 Entenda o que é o Metaverso e quais são as possibilidades de considera-lo como um novo canal digital
                 <a href="#vermais" id="dia6">Ver Mais</a>
@@ -957,8 +953,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b>Agenda 07</b> <br>
-                  5G: Potencializando novos modelos
+                  <b style="color: #37B3E4;">Agenda 07 │ 5G: Potencializando novos modelos</b>
                 </i>
                 Descubra como o 5G pode habilitar novos modelos de negócio.
                 <a href="#vermais" id="dia7">Ver Mais</a>
