@@ -140,10 +140,7 @@ tecnologia.</p>
         </div>
         <div class="col">
           <h3>
-            Agenda 02 │ Insights & Data: Modernizando o estado de dados<br> 
-            <b>
-            IDEA
-            </b>                 
+            Agenda 02 │ Insights & Data: Modernizando o estado de dados                 
           </h3>
 
           <p>
