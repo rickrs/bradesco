@@ -127,6 +127,10 @@ tecnologia.</p>
             <b>Palestrante:</b>
             <i>Luciano Miyake</i>
             Head de Alianças para Salesforce na Capgemini
+            <br><br>
+            <b>Convidado:</b>
+            <i>Eduardo Vellozo</i>
+            Gerente Sênior de CRM & Perfomance, Bradesco Seguros.
           </p>
         </div>
       </div>

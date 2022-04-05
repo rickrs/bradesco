@@ -1,0 +1,351 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;100;700&display=swap');
+
+$font : 'Ubuntu', sans-serif;
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background: url('../img/bg.jpg') no-repeat center right #000;
+  background-size: cover;
+  padding: 0 50px;
+}
+
+.container{
+  display: block;
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.first{
+  padding: 0;
+}
+
+.btn {
+    font-family: $font;
+    text-decoration: none;
+    background-color: transparent;
+    border: 1px solid #37B3E4;
+    padding: 10px;
+    color: #fff;
+    font-size: 19px;
+    letter-spacing: 1px;
+    display: block;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto 20px;
+    text-transform: uppercase;
+    &:hover {
+        background-color: #37B3E4;
+        color: #fff;
+        transition: all .5s;
+    }
+}
+
+.form-login{
+  display: block;
+  max-width: 500px;
+  padding: 10px 20px;
+  position: fixed;
+  box-sizing: border-box;
+  left: 0;
+  right: 0;
+  top: 150px;
+  margin: 0 auto;
+  background: #fff;
+  z-index: -100;
+  border-radius: 5px;
+  opacity: 0;
+  transition: all .2s linear;
+  &.act{
+    opacity: 1;
+    z-index: 3;
+  }
+  #close{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: url('../img/icon-close.png') no-repeat center center;
+    background-size: cover;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
+  }
+
+  form{
+    display: block;
+    max-width: 400px;
+    width: 100%;
+    margin: 30px auto;
+    position: relative;
+    z-index: 4;
+    .input{
+      border: 2px solid #e8e8e8;
+      padding: 7px 15px;
+      margin-bottom: 10px;
+    }
+    input[type="text"], input[type="email"], input[type="phone"]{
+      width: 100%;
+      display: block;
+      font-family: $font;
+      font-size: 22px;
+      color: #000;
+      font-weight: 400;
+      box-sizing: border-box;
+      border: 0;
+      outline: transparent;
+      padding: 10px 30px 10px 10px;
+      border: 2px solid #e8e8e8;
+      margin-bottom: 10px;
+      -webkit-appearance: none;
+    }
+    textarea{
+      width: 100%;
+      display: block;
+      font-family: $font;
+      font-size: 22px;
+      color: #000;
+      font-weight: 400;
+      box-sizing: border-box;
+      border: 0;
+      outline: transparent;
+      padding: 10px 30px 10px 10px;
+      border: 2px solid #e8e8e8;
+      margin-bottom: 10px;
+      -webkit-appearance: none;
+    }
+    input[name="firstname"]{
+      //background: url('../img/icon-avatar.png') no-repeat right center;
+      //background-size: 20px;
+      //background-position-x: 365px;
+    }
+    input[name="email"]{
+      //background: url('../img/icon-email.png') no-repeat right center;
+      //background-size: 20px;
+      //background-position-x: 365px;
+    }
+    input[name="phone"]{
+      //background: url('../img/icon-phone.png') no-repeat right center;
+      //background-size: 20px;
+      //background-position-x: 365px;
+    }
+    button{
+      display: block;
+      font-family: $font;
+      font-size: 26px;
+      color: #fff;
+      font-weight: 100;
+      text-align: center;
+      background: #37B3E4;
+      text-decoration: none;
+      padding: 30px;
+      max-width: 420px;
+      width: 100%;
+      margin: 20px auto;
+      border-radius: 0px;
+      line-height: 0;
+      box-sizing: border-box;
+      transition: all .2s linear;
+      border: 0;
+      cursor: pointer;
+      -webkit-appearance: none;
+    }
+  }
+  cite{
+    font-family: $font;
+    font-size: 13px;
+    color: #000;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    display: block;
+    img{
+      width: 25px;
+      margin-bottom: -7px;
+      margin-right: 3px;
+    }
+  }
+}
+.overlay{
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -100;
+  opacity: 0;
+  transition: all .2s linear;
+  &.act{
+    opacity: 1;
+    z-index: 2;
+  }
+}
+
+.btns{
+  max-width: 540px;
+  width: 100%;
+  margin: 0 auto;
+  display: none;
+  align-items: center;
+}
+
+.second{
+  padding: 100px 0;
+}
+
+.top{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 0 auto 20px;
+  img{
+    width: 100%;
+    max-width: fit-content;
+  }
+  img:first-child{
+    margin-right: auto;
+  }
+}
+
+h1{
+  font-family: $font;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  b{
+    font-weight: bold;
+  }
+}
+
+p{
+  font-family: $font;
+  color: #fff;
+  font-size: 20px;
+  display: block;
+  max-width: 600px;
+  width: 100%;
+  margin: 20px 0;
+}
+
+
+.timer{
+  font-family: $font;
+  color: #fff;
+  font-size: 46px;
+  font-weight: bold;
+  display: block;
+  margin-top: 30px;
+}
+
+.rodape{
+  padding: 75px 0 100px;
+  h3{
+    font-family: $font;
+    font-size: 13px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 100;
+  }
+  img{
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    margin: 0px auto 20px;
+  }
+  .apoio{
+    display: flex;
+    align-items: center;
+    div{
+      display: flex;
+      align-items: center;
+      &:first-child{
+        margin-right: auto;
+      }
+      &:last-child{
+        margin-left: auto;
+      }
+      img{
+        width: 100%;
+      }
+    }
+    b{
+      font-family: $font;
+      font-size: 16px;
+      color: #fff;
+      text-transform: uppercase;
+      margin-right: 10px;
+    }
+  }
+  p{
+    font-family: $font;
+    font-size: 9px;
+    color: #fff;
+    font-weight: 100;
+    text-align: right;
+    margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 860px){
+  body{
+    background-position-x: center;
+  }
+  .first {
+    padding: 0px 0 50px;
+  }
+  .top{
+    display: block;
+    img{
+      width: 160px !important;
+      &:first-child{
+        margin-bottom: 30px !important;
+      }
+    }
+  }
+  h1{
+    font-size: 22px;
+  }
+  .timer{
+    font-size: 25px;
+  }
+  .btns{
+    display: block !important;
+  }
+  .btn{
+    margin: 10px auto;
+    max-width: 240px;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 11px;
+  }
+  .form-login{
+    max-width: 320px;
+    top: 50px;
+    padding: 50px 20px 100px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    max-height: 500px;
+    border-radius: 0;
+    will-change: all;
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+  }
+  .form-login form button{
+    padding: 10px 30px;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+  .form-login form textarea{
+    max-height: 100px;
+  }
+}
