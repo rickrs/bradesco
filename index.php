@@ -568,6 +568,9 @@ Controle e Identificação de indicadores para integração e estado de transiç
             <br><br>
             <i>Vitor Mariath</i>
             Líder da Prática de Cloud na Capgemini Brasil
+            <br><br>
+            <i>Frederico Torres</i>
+            Diretor do Centro de Excelência de Redes Avançadas na Capgemini Engineering
             </p>
         </div>
       </div>
@@ -728,6 +731,27 @@ para contas estratégicas da Capgemini Brasil, possuindo mais de 4 anos de exper
 plataforma. Graduado em Sistemas de Informação, com MBA em Gestão Estratégica, 
 possui vasta experiência em funções de liderança, atuando desde 2013 em posições de 
 gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceNow
+          </p>
+        </div>
+      </div> 
+
+      <div class="row" id="Frederico-Torres">
+        <div class="col">
+          <img src="assets/img/Frederico-Torres.png" alt="">
+          <b>
+          Frederico Torres
+            <i>
+            Diretor do Centro de Excelência de Redes Avançadas na Capgemini Engineering
+            </i>
+          </b>
+        </div>
+        <div class="col">
+          <p>
+          Profissional com mais de vinte anos de experiência no setor de Comunicações trabalhando com provedores de serviços, fornecedores de equipamentos de rede e empresas de consultoria em todo o mundo.  
+          <br><br>
+          Suas especialidades incluem: pré-vendas, bid management, desenvolvimento de soluções, planejamento estratégico go-to-market, consultoria em tecnologia e serviços de engenharia de rede. 
+          <br><br>
+          Formado no Instituto Superior Técnico de Lisboa, hoje atua como diretor de pré-vendas do Centro de Excelência de Redes Avançadas na Capgemini Engineering, onde tem como foco principal na transição para 5G, O-RAN e Telco-Cloud: desde os desafios de introdução e validação da tecnologia 5G (incluindo 5G Lab as a Service), até o desenvolvimento de novos casos de uso/aplicativos e a exploração de modelos de negócios aprimorados.
           </p>
         </div>
       </div> 
@@ -1013,6 +1037,21 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
         </div>
 
         <div class="col">
+          <img src="assets/img/Frederico-Torres.png" alt="">
+          <span>
+            <b>Frederico Torres</b>
+            Diretor do Centro de Excelência de Redes Avançadas na Capgemini Engineering
+          </span>
+          <hr>
+          <p>
+          Profissional com mais de vinte anos de experiência no setor de Comunicações trabalhando com provedores de serviços, fornecedores de...
+          </p>
+          <a href="#vermais" class="Frederico-Torres">Ver mais</a>
+        </div>        
+      </div>
+
+      <div class="row">
+      <div class="col">
           <img src="assets/img/Guilherme-Duarte.png" alt="">
           <span>
             <b>Guilherme Duarte</b>
@@ -1024,9 +1063,6 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           </p>
           <a href="#vermais" class="Guilherme-Duarte">Ver mais</a>
         </div>
-      </div>
-
-      <div class="row">
       <div class="col">
           <img src="assets/img/Leonardo-Carissimi.png" alt="">
           <span>
@@ -1064,9 +1100,11 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             Líder de Alianças para Cloud com ampla experiência no desenvolvimento de soluções comerciais e técnicas inovadoras para clientes globais…
           </p>
           <a href="#vermais" class="Ricardo-Paranhos">Ver mais</a>
-        </div>
+        </div>        
+      </div>
 
-        <div class="col">
+      <div class="row">
+      <div class="col">
           <img src="assets/img/Silvio-Dantas.png" alt="">
           <span>
             <b>Silvio Dantas</b>
@@ -1078,9 +1116,7 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
           </p>
           <a href="#vermais" class="Silvio-Dantas">Ver mais</a>
         </div>
-      </div>
-
-      <div class="row">
+        
         <div class="col">
           <img src="assets/img/Vitor-Mariath.png" alt="">
           <span>
@@ -1092,13 +1128,6 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             Vitor Mariath é bacharel em Sistemas de Informação pela Universidade Feevale (Novo Hamburgo-RS), possui MBA em Negócios pela La Salle Business School e experiências…
           </p>
           <a href="#vermais" class="Vitor-Mariath">Ver mais</a>
-        </div>
-        
-        <div class="col" style="opacity: 0;">
-          <span>
-          </span>
-          <p>
-          </p>
         </div>
         <div class="col" style="opacity: 0;">
           <span>
@@ -1143,6 +1172,12 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
     $(".Vitor-Mariath").click(function(){
       $(".apresentador").toggleClass("act");
       $("#Vitor-Mariath").toggleClass("act");
+    });
+
+
+    $(".Frederico-Torres").click(function(){
+      $(".apresentador").toggleClass("act");
+      $("#Frederico-Torres").toggleClass("act");
     });
 
     $(".Guilherme-Duarte").click(function(){

@@ -119,7 +119,7 @@
 
         <div class="bloco">
           <div class="video" style="max-width: 820px; width: 100%; margin: 30px auto;display:none;">
-            <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ID_DO_VIDEO?autoplay=1' frameborder='0' allowfullscreen></iframe></div>
+          <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/696060469?h=9310ae18e4' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
           </div>
 
           <div class="lista" style="display: block;">
