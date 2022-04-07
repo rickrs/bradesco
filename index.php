@@ -22,7 +22,7 @@
       </div>
 
       <h1>
-        Porquê sabemos que damos conta <b>dos próximos desafios.</b>
+      O porquê de sabermos que damos conta <b style="display: initial;">dos próximos desafios.</b>
       </h1>
 
       <img src="assets/img/headline.png" alt="" class="headline">
@@ -45,6 +45,8 @@
     <div class="container">
       <form method="POST" action="assets/php/verificaemail.php" id="formEvento" name="formEvento" class="_form" >
         <!--input type="email" id="email" name="email" placeholder="Seu email" required title="Email Não pode estar em Branco ou incorreto" pattern="[^ @]*@[^ @]*"/-->
+        <input type="text" name="nome" id="nome" placeholder="Nome">
+        <input type="text" name="cargo" id="cargo" placeholder="Cargo">
         <input type="email" name="email" id="email"
              pattern="(?!(^[.-].*|[^@]*[.-]@|.*\.{2,}.*)|^.{254}.)([a-zA-Z0-9!#$%&'*+\/=?^_`{|}~.-]+@)(?!-.*|.*-\.)([a-zA-Z0-9-]{1,63}\.)+[a-zA-Z]{2,15}" placeholder="Seu email" value="<?php echo $_SESSION["email"];?>" required title="Email Não pode estar em Branco ou incorreto" required>
         <button type="submit" name="button">ENTRAR</button>
@@ -79,7 +81,8 @@ atendimento a ele, se adequa ao tema de forma real time.
 E todas essas interações, constam na tela do gerente de conta que está na agência, pelo Financial Service Cloud. Estas ferramentas serão 
 apresentadas de forma visual e interativa, através de uma jornada fictícia que ilustrará os pontos de contato e ações possíveis de serem 
 realizadas para um use case a ser definido, gerando assim insights para uma experiência memorável e omnichannel, apoiada por 
-tecnologia.</p>
+tecnologia.
+</p>
           
           <div class="flex">
             <p>
@@ -128,9 +131,12 @@ tecnologia.</p>
             <i>Luciano Miyake</i>
             Head de Alianças para Salesforce na Capgemini
             <br><br>
-            <b>Convidado:</b>
-            <i>Eduardo Vellozo</i>
-            Gerente Sênior de CRM & Perfomance, Bradesco Seguros.
+            <b>Convidado Q&A:</b>
+            <i>Bruno Parlato</i>
+            Executivo de Conta para o Bradesco na Salesforce
+            <br><br>
+            <i>Gabriella Mendes</i>
+            Engenharia de Solução na Salesforce
           </p>
         </div>
       </div>
@@ -204,6 +210,13 @@ de DataOps, trazendo melhores resultados para clientes a partir da redução do 
             <br><br>
             <i>Bernardo Caldeira</i>
             Gerente de Soluções Digitais na Capgemini Brasil 
+            <br><br>
+            <b>Convidado Q&:</b>
+            <i>Eudis Lanconi</i>
+            Executivo de Soluções de Data & AI na Microsoft
+            <br><br>
+            <i>Emerson Moraes</i>
+            Executivo de conta para o Bradesco na Microsoft
           </p>
         </div>
       </div>
@@ -274,8 +287,12 @@ Controle e Identificação de indicadores para integração e estado de transiç
             <i>Ricardo Paranhos</i>
             Cloud Alliance Manager na Capgemini Brasil
             <br><br>
-            <i>Vitor Marath</i>
+            <i>Vitor Mariath</i>
             Líder da Prática de Cloud na Capgemini Brasil
+            <br><br>
+            <b>Convidado Q&A:</b>
+            <i>Joao Aragão Pereira</i>
+            Executivo de Soluções para Instituições Financeira na Microsoft
           </p>
         </div>
       </div>
@@ -347,6 +364,13 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>Palestrante:</b>
             <i>Leonardo Carissimi</i>
             Diretor da Prática de Ciber Segurança e Privacidade na Capgemini Brasil
+            <br><br>
+            <b>Convidado Q&A:</b>
+            <i>Rafael Granha</i>
+            Executivo de Ciber Segurança na Microsoft
+            <br><br>
+            <i>Fabio Gaspar</i>
+            Diretor de Vendas para Ciber Segurança na Microsoft
           </p>
         </div>
       </div>
@@ -419,8 +443,15 @@ Controle e Identificação de indicadores para integração e estado de transiç
             <i>Guilherme Duarte</i>
             Desenvolvimento de Negócios ServiceNow na Capgemini Brasil
             <br><br>
-            <i>Erik Elias</i>
+            <i>Erick Elias</i>
             Gerente Operações Digitais do CoE ServiceNow na Capgemini Brasil.
+            <br><br>
+            <b>Convidado Q&A:</b>
+            <i>Rodrigo Rezende</i>
+            Executivo de Contas para o Bradesco na ServiceNow
+            <br><br>
+            <i>João Saes</i>
+            Consultor Sênior de Soluções na ServiceNow
           </p>
         </div>
       </div>
@@ -495,6 +526,9 @@ Controle e Identificação de indicadores para integração e estado de transiç
           <b>Palestrante:</b>
             <i>Silvio Dantas</i>
             Diretor Executivo de Inovação & Transformação Digital na Capgemini Brasil
+            <br><br>
+            <i>Tharso Vieira</i>
+            Head of Practical Innovation na Capgemini Brasil
           </p>
         </div>
       </div>
@@ -794,6 +828,23 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
         </div>
       </div> 
 
+      <div class="row" id="Tharso-Vieira">
+        <div class="col">
+          <img src="assets/img/TharsoVieira.png" alt="">
+          <b>
+          Tharso Vieira
+            <i>
+            Head of Practical Innovation na Capgemini Brasil
+            </i>
+          </b>
+        </div>
+        <div class="col">
+          <p>
+          Tharso começou a trabalhar com publicidade digital em 97 como redator. Passou por agências e consultorias como McCann (Digital Manager), Dentsu (Digital Manager), Santa Transmedia Productions NY (Manager Director), Riot (Diretor Executivo de Criação), IBM iX Studio (Diretor de Criação/UX), TV1 (Diretor de Estratégia/Criação/UX) e Try/WPP (Diretor de Estratégia). Nesses quase 25 anos, atendeu a vários dos maiores clientes do país, como Coca-Cola, GM, Mastercard, Toyota, Sony, Santander, Nestlé, Bradesco, Postos Ipiranga, Avon, Olimpíada do Rio, GOL, Casas Bahia, Ponto Frio, Bayer, Tok&Stok e muitos outros. 
+          </p>
+        </div>
+      </div> 
+
     </div>
   </div>
 
@@ -886,7 +937,8 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
       </h2>
       <img style="width: 100%; max-width: 450px; margin: 20px 0 40px;" src="assets/img/logos-apoiadores.png" alt="">
 
-      <h2>Agenda</h2>
+      <h2 style="color:#37B3E4;font-size: 20px;margin-bottom: 5px;">Agenda</h2>
+      <p style="font-size: 16px; font-weight: 100;">Os horários podem sofrer alterações.</p>
       <div class="row">
         <div class="col">
           <span>
@@ -897,17 +949,28 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b style="color: #37B3E4;">Agenda 01 │ Real Time Marketing</b>
+                  <b style="color: #37B3E4;">14h00 │ Abertura</b>
                 </i>
-                Como antecipar as necessidades dos clientes de forma Omnichannel.
-                <a href="#vermais" id="dia1">Ver Mais</a>
+                Abertura com time Capgemini e <br> executivos do Bradesco.
               </p>
             </div>
             <hr>
             <div class="track-col">
               <p>
                 <i>
-                  <b style="color: #37B3E4;">Agenda 02 │ Insights & Data: Modernizando o estado de dados</b>
+                  <b style="color: #37B3E4;">14h20 │ Agenda 01 │ Real Time Marketing</b>
+                </i>
+                Como antecipar as necessidades dos clientes de forma Omnichannel.
+                <a href="#vermais" id="dia1">Ver Mais</a>
+              </p>
+            </div>
+          </div>
+          <hr>
+          <div class="tracks">
+            <div class="track-col">
+              <p>
+                <i>
+                  <b style="color: #37B3E4;">15h20 │ Agenda 02 │ Insights & Data: Modernizando o estado de dados</b>
                    <br>
                   IDEA
                 </i>
@@ -927,22 +990,21 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b style="color: #37B3E4;">Agenda 03 │ Cloud: Maximização dos benefícios ao negócio</b>
-                  <br>
-                  Cap360
+                  <b style="color: #37B3E4;">14h00 │ Abertura</b>
                 </i>
-                Acelerando a jornada de transformação de aplicações legadas para a nuvem
-                <a href="#vermais" id="dia3">Ver Mais</a>
+                Abertura com time Capgemini e <br> executivos do Bradesco.
               </p>
             </div>
             <hr>
             <div class="track-col">
               <p>
                 <i>
-                  <b style="color: #37B3E4;">Agenda 04 │ Cyber Security: Confiança Zero - A jornada de um dado em um mundo em que a confiança é tudo</b>
+                  <b style="color: #37B3E4;">14h20 │ Agenda 03 │ Cloud: Maximização dos benefícios ao negócio</b>
+                  <br>
+                  Cap360
                 </i>
-                Segurança e proteção de dados durante todo o ciclo de vida do cliente. 
-                <a href="#vermais" id="dia4">Ver Mais</a>
+                Acelerando a jornada de transformação de aplicações legadas para a nuvem
+                <a href="#vermais" id="dia3">Ver Mais</a>
               </p>
             </div>
           </div>          
@@ -953,7 +1015,17 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b style="color: #37B3E4;">Agenda 05 │ Hyperautomação e Empoderamento: Uma abordagem Low/NoCode</b>
+                  <b style="color: #37B3E4;">15h20 │ Agenda 04 │ Cyber Security: Confiança Zero - A jornada de um dado em um mundo em que a confiança é tudo</b>
+                </i>
+                Segurança e proteção de dados durante todo o ciclo de vida do cliente. 
+                <a href="#vermais" id="dia4">Ver Mais</a>
+              </p>
+            </div>
+            <hr>
+            <div class="track-col">
+              <p>
+                <i>
+                  <b style="color: #37B3E4;">16h00 │ Agenda 05 │ Hyperautomação e Empoderamento: Uma abordagem Low/NoCode</b>
                 </i>
                 Integrando operações e sistemas para colocar as pessoas no centro de tudo.
                 <a href="#vermais" id="dia5">Ver Mais</a>
@@ -971,17 +1043,28 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             <div class="track-col">
               <p>
                 <i>
-                  <b style="color: #37B3E4;">Agenda 06 │ Metaverso: Óculos no rosto, cabeça nas nuvens… e pés no chão</b>
+                  <b style="color: #37B3E4;">14h00 │ Abertura</b>
+                </i>
+                Abertura com time Capgemini e <br> executivos do Bradesco.
+              </p>
+            </div>
+            <hr>
+            <div class="track-col">
+            <p>
+                <i>
+                  <b style="color: #37B3E4;">14h30 │ Agenda 06 │ Metaverso: Óculos no rosto, cabeça nas nuvens… e pés no chão</b>
                 </i>
                 Entenda o que é o Metaverso e quais são as possibilidades de considera-lo como um novo canal digital
                 <a href="#vermais" id="dia6">Ver Mais</a>
               </p>
             </div>
-            <hr>
+          </div>
+          <hr>
+          <div class="tracks">
             <div class="track-col">
-              <p>
+            <p>
                 <i>
-                  <b style="color: #37B3E4;">Agenda 07 │ 5G: Potencializando novos modelos</b>
+                  <b style="color: #37B3E4;">15h20 │ Agenda 07 │ 5G: Potencializando novos modelos</b>
                 </i>
                 Descubra como o 5G pode habilitar novos modelos de negócio.
                 <a href="#vermais" id="dia7">Ver Mais</a>
@@ -1118,6 +1201,18 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
         </div>
         
         <div class="col">
+          <img src="assets/img/Tharso-Vieira.png" alt="">
+          <span>
+            <b>Tharso Vieira</b>
+            Head of Practical Innovation na Capgemini Brasil
+          </span>
+          <hr>
+          <p>
+          Tharso começou a trabalhar com publicidade digital em 97 como redator. Passou por agências e consultorias como McCann (Digital Manager), Dentsu (Digital Manager), Santa Transmedia Productions NY (Manager Director)...
+          </p>
+          <a href="#vermais" class="Tharso-Vieira">Ver mais</a>
+        </div>
+        <div class="col">
           <img src="assets/img/Vitor-Mariath.png" alt="">
           <span>
             <b>Vitor Mariath</b>
@@ -1128,12 +1223,6 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
             Vitor Mariath é bacharel em Sistemas de Informação pela Universidade Feevale (Novo Hamburgo-RS), possui MBA em Negócios pela La Salle Business School e experiências…
           </p>
           <a href="#vermais" class="Vitor-Mariath">Ver mais</a>
-        </div>
-        <div class="col" style="opacity: 0;">
-          <span>
-          </span>
-          <p>
-          </p>
         </div>
         <div class="col" style="opacity: 0;">
           <span>
@@ -1208,6 +1297,10 @@ gestão. Possui mais de 60 certificações/acreditações na plataforma ServiceN
     $(".Patrick-Cardoso").click(function(){
       $(".apresentador").toggleClass("act");
       $("#Patrick-Cardoso").toggleClass("act");
+    });
+    $(".TharsoVieira").click(function(){
+      $(".apresentador").toggleClass("act");
+      $("#Tharso-Vieira").toggleClass("act");
     });
 
     $(".Eduardo-Paz").click(function(){
