@@ -18,7 +18,7 @@
         <a href="#agenda" class="link">Agenda</a>
         <a href="#palestrantes" class="link">Palestrantes</a>
         <a href="#inscrevase" class="link cadastrese">Cadastre-se</a>
-        <a href="#entrar" style="display: none;" class="link entrar">Entrar</a>
+        <a href="#entrar" style="display: none;" class="link entrar">Assistir a Live</a>
       </div>
 
       <h1>
